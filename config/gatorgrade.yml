@@ -40,15 +40,6 @@
       count: 1
       exact: true
 
-# Check test cases
-#- description: Make all 13 test cases pass
-#  check: MatchCommandFragment
-#  options:
-#    command: 'poetry run pytest -v'
-#    fragment: "13 passed"
-#    count: 1
-#    exact: false
-
 # Count number of commits in the GitHub repository
 - description: Have at least a specific minimum number of commits (6) in repository
   check: CountCommits
