@@ -1,7 +1,5 @@
 # Practical 05: Cookbook Programming Style
 
-## Due Date: November 18th, 2022 by midnight
-
 ## Introduction
 
 In this practical assignment, you will practice writing programs in the Cookbook programming style by converting a program written in the Monolithic programming style to a program that uses the Cookbook programming style. Through this exercise, you will put into practice the following learning objective(s):
